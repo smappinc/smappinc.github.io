@@ -64,5 +64,11 @@
 		"name": "Pepe the Frog Twitch Emotes",
 		"imageurl": "https://i.ibb.co/QHhdLwg/pepe2.webp",
 		"url": "https://signal.art/addstickers/#pack_id=3b1a14d750f6a4015a679f20e75b27d5&pack_key=ab3c94a0e8d305ae5f2a333f7f985647fb1009c42d196be8a5ee92a1cd3dbeeb"
+	},
+	{
+		"id": 12,
+		"name": "Baby Yoda Pack",
+		"imageurl": "https://i.ibb.co/FxZ3b0q/EKmh7-u-U0-AAaqnv-640x360.jpg",
+		"url": "https://signal.art/addstickers/#pack_id=e38a0fcdbd4c06e7e38aa038536877d2&pack_key=09287edff13d97320b94675836b9aaf51f4eec059e2d1fc1579d84985bb8a8d3"
 	}
 ]
